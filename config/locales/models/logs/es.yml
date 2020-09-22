@@ -1,0 +1,16 @@
+# Structure needed for Rails i18n active record messages management
+# Example file
+es:
+  activerecord:
+    attributes:
+      log:
+        entry: Fecha y hora
+        data: Info
+        height: Altura
+        feeded: Alimentacion
+        trained: Entrenamiento
+        pruned: Poda
+    models:
+      log:
+        one: Nota
+        other: Notas

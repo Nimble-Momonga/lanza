@@ -1,0 +1,1 @@
+class Germination < Stage; end

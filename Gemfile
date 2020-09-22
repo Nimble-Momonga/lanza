@@ -38,6 +38,10 @@ gem 'rack-attack'
 
 gem 'health_check', '~> 3.0'
 
+# Active Admin
+gem 'activeadmin'
+gem 'activeadmin_addons'
+
 group :development do
   # Gem to detect N+1 queries
   gem 'bullet'

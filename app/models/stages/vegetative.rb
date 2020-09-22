@@ -1,0 +1,1 @@
+class Vegetative < Stage; end

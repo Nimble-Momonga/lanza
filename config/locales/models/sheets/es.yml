@@ -1,0 +1,14 @@
+# Structure needed for Rails i18n active record messages management
+# Example file
+es:
+  activerecord:
+    attributes:
+      sheet:
+        name: Nombre
+        techniques: Tecnicas
+        phenotype: Fenotipo
+        cultivation: Cultivo
+    models:
+      sheet:
+        one: Ficha
+        other: Fichas

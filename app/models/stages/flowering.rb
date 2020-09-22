@@ -1,0 +1,1 @@
+class Flowering < Stage; end

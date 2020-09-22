@@ -1,4 +1,4 @@
-class ApplicationController < ActionController::API
+class ApplicationController < ActionController::Base
   # i18n configuration. See: http://guides.rubyonrails.org/i18n.html
   before_action :set_locale
 
