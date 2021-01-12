@@ -200,6 +200,4 @@ You can find more documentation in the [docs](docs) folder. The documentation av
 
 ## About
 
-This project is maintained by [Esteban Guido Pintos](https://github.com/epintos) and it is written by [Wolox](http://www.wolox.com.ar).
-
-![Wolox](https://raw.githubusercontent.com/Wolox/press-kit/master/logos/logo_banner.png)
+This project is maintained by [Nimble-Momonga](https://github.com/Nimble-Momonga).
